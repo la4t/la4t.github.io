@@ -3,6 +3,8 @@ layout: default
 title: 自動ログイン
 ---
 
+## 自動ログイン
+
 <form name="code">
 
 <table border="0">
