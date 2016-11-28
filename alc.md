@@ -14,7 +14,7 @@ title: 自動ログイン
     </tr>
     <tr>
       <td>Password</td>
-      <td><input type="text" name="usr_pass" value=""><td>
+      <td><input type="text" name="usr_pass" value=""></td>
     </tr>
     <tr>
       <td>Matrix</td>
