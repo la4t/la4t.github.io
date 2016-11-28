@@ -3,6 +3,6 @@ layout: default
 title: HOME
 ---
 
-## コンテンツ
+## ツール類
 
 - [ステータス計算機](./poke/kotai.html)
