@@ -360,7 +360,7 @@ ul.disc {
 	position: absolute;
 	left: 0px;	/*subブロックを画面の左に配置*/
 	top: 0px;	/*subブロックを画面の上に配置*/
-	background: #000;	/*背景色*/
+	background: #4f0046;	/*背景色*/
 }
 
 /*ロゴ画像
@@ -385,7 +385,7 @@ ul.disc {
 #menubar-s a {
 	display: block;
 	text-decoration: none;
-	background: #4f0046;	/*メニューの背景色*/
+	background: #000;	/*メニューの背景色*/
 	padding: 20px;		/*メニュー内の余白*/
 	border-bottom: 1px solid #fff;	/*下線の幅、線種、色*/
 	color: #fff;
