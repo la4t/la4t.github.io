@@ -385,7 +385,7 @@ ul.disc {
 #menubar-s a {
 	display: block;
 	text-decoration: none;
-	background: #000;	/*メニューの背景色*/
+	background: #4f0046;	/*メニューの背景色*/
 	padding: 20px;		/*メニュー内の余白*/
 	border-bottom: 1px solid #fff;	/*下線の幅、線種、色*/
 	color: #fff;
