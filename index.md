@@ -1,10 +1,8 @@
 ---
 layout: default
-title: test
+title: HOME
 ---
- 
-# 物置
 
-## コンテンツ
+# コンテンツ
 
 - [ステータス計算機](./poke/kotai.html)
