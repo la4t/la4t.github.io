@@ -1,0 +1,9 @@
+---
+layout: default
+title: 自動ログイン
+---
+
+|header1|header2|header3|
+|:--|--:|:--:|
+|align left|align right|align center|
+|a|b|c|
