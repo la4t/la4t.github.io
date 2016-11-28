@@ -1,12 +1,73 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="ja">
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>{{ page.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="ここにサイト説明を入れます">
+<meta name="keywords" content="キーワード１,キーワード２,キーワード３,キーワード４,キーワード５">
+<link rel="stylesheet" href="{{ site.baseurl }}/css/slide.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+<script type="text/javascript" src="{{ site.baseurl }}/js/openclose.js"></script>
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
 </head>
 
 <body>
-{{ content }}
-</body>
 
+<div id="container">
+
+<div id="main">
+
+{{ content }}
+
+</div>
+<!--/main-->
+
+<div id="sub">
+
+<p id="logo"><a href="{{ site.baseurl }}/index.html"><img src="images/logo.png" alt="SAMPLE LOGO"></a></p>
+
+<!--PC用メニュー-->
+<nav id="menubar">
+<ul>
+<li><a href="{{ site.baseurl }}/index.html">HOME</a></li>
+<li><a href="{{ site.baseurl }}/about.html">ABOUT</a></li>
+<li><a href="{{ site.baseurl }}/gallery.html">GALLERY</a></li>
+<li><a href="{{ site.baseurl }}/contact.html">CONTACT</a></li>
+</ul>
+</nav>
+<!--スマホ用メニュー-->
+<nav id="menubar-s">
+<ul>
+<li><a href="{{ site.baseurl }}/index.html">HOME</a></li>
+<li><a href="{{ site.baseurl }}/about.html">ABOUT</a></li>
+<li><a href="{{ site.baseurl }}/gallery.html"> GALLERY </a></li>
+<li><a href="{{ site.baseurl }}/contact.html">CONTACT</a></li>
+</ul>
+</nav>
+
+</div>
+<!--/sub-->
+
+</div>
+<!--/container-->
+
+<footer>
+<small>Copyright&copy; <a href="index.html">Sample Site</a> All Rights Reserved.</small>
+<span class="pr"><a href="http://template-party.com/" target="_blank">Web Design:Template-Party</a></span>
+</footer>
+
+<!--メニューの３本バー-->
+<div id="menubar_hdr" class="close"><span></span><span></span><span></span></div>
+<!--メニューの開閉処理条件設定　480px以下-->
+<script type="text/javascript">
+if (OCwindowWidth() <= 480) {
+    open_close("menubar_hdr", "menubar-s");
+}
+</script>
+</body>
 </html>
