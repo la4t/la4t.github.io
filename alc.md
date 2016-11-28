@@ -18,7 +18,7 @@ title: 自動ログイン
     </tr>
     <tr>
       <td>Matrix</td>
-      <td><textarea name="matrix" rows="8" cols="20"></textarea></td>
+      <td><textarea name="matrix" rows="8" cols="20" style="resize:none;"></textarea></td>
     </tr>
     <tr>
       <td>code</td>
@@ -37,7 +37,7 @@ title: 自動ログイン
       <td colspan="2"><div id="bml">Output</div></td>
     </tr>
     <tr>
-      <td colspan="2"><textarea name="output1" rows="4" cols="20"></textarea></td>
+      <td colspan="2"><textarea name="output1" rows="4" cols="20" style="resize:none;"></textarea></td>
     </tr>
   </tbody>
 </table>
