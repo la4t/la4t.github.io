@@ -198,7 +198,7 @@ rt
  </tr>
  <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl71" style='height:15.0pt;border-top:none'>種族</td>
-  <td colspan="2" class="xl92" align="center" style='border-left:none'><input type='text' style="width:80%" id="poke"></td>
+  <td colspan="2" class="xl92" align="right" style='border-left:none'><input type='text' style="width:80%" id="poke"></td>
   <td class="xl74" style='border-top:none'></td>
   <td class="xl71" align="right" style='border-top:none;border-left:none' id='base_h'></td>
   <td class="xl71" align="right" style='border-top:none;border-left:none' id='base_a'></td>
@@ -209,7 +209,7 @@ rt
  </tr>
  <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl83" style='height:15.0pt;border-top:none'>Lv</td>
-  <td colspan="2" class="xl92" align="center" style='border-left:none'><input type='text' value="50" style="width:80%" id="lv"></td>
+  <td colspan="2" class="xl92" align="right" style='border-left:none'><input type='text' value="50" style="width:80%" id="lv"></td>
   <td class="xl75" style='border-top:none'>↑</td>
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_h'></td>
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_a'></td>
@@ -221,7 +221,7 @@ rt
  <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl71" style='height:15.0pt;border-top:none'>性格</td>
   <td colspan="2" class="xl92" style='border-left:none'>
-    <select id="nature" style="width:80%">
+    <select id="nature" style="width:90%">
       <option value="さみしがり">さみしがり</option>
       <option value="ゆうかん">ゆうかん</option>
       <option value="いじっぱり">いじっぱり</option>
@@ -274,12 +274,12 @@ rt
   <td class="xl71">残</td>
   <td class="xl71" align="right" style='border-left:none' id='ev_rest'></td>
   <td class="xl74" style='border-top:none'></td>
-  <td class="xl82" align="center" style='border-top:none;border-left:none'><input type='text' value="0" style="width:80%" id='ev_h'></td>
-  <td class="xl82" align="center" style='border-top:none;border-left:none'><input type='text' value="0" style="width:80%" id='ev_a'></td>
-  <td class="xl82" align="center" style='border-top:none;border-left:none'><input type='text' value="0" style="width:80%" id='ev_b'></td>
-  <td class="xl82" align="center" style='border-top:none;border-left:none'><input type='text' value="0" style="width:80%" id='ev_c'></td>
-  <td class="xl82" align="center" style='border-top:none;border-left:none'><input type='text' value="0" style="width:80%" id='ev_d'></td>
-  <td class="xl82" align="center" style='border-top:none;border-left:none'><input type='text' value="0" style="width:80%" id='ev_s'></td>
+  <td class="xl82" align="right" style='border-top:none;border-left:none'><input type='text' value="0" style="width:80%" id='ev_h'></td>
+  <td class="xl82" align="right" style='border-top:none;border-left:none'><input type='text' value="0" style="width:80%" id='ev_a'></td>
+  <td class="xl82" align="right" style='border-top:none;border-left:none'><input type='text' value="0" style="width:80%" id='ev_b'></td>
+  <td class="xl82" align="right" style='border-top:none;border-left:none'><input type='text' value="0" style="width:80%" id='ev_c'></td>
+  <td class="xl82" align="right" style='border-top:none;border-left:none'><input type='text' value="0" style="width:80%" id='ev_d'></td>
+  <td class="xl82" align="right" style='border-top:none;border-left:none'><input type='text' value="0" style="width:80%" id='ev_s'></td>
  </tr>
  <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl71" style='height:15.0pt;border-top:none'></td>
