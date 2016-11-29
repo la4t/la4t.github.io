@@ -201,15 +201,15 @@ input[type="text"]{
  <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl71" style='height:15.0pt;'></td>
   <td class="xl72" style=''></td>
-  <td class="xl68" style='border-left:none;'>HP</td>
-  <td class="xl68" style='border-left:none;'>攻撃</td>
-  <td class="xl68" style='border-left:none;'>防御</td>
-  <td class="xl68" style='border-left:none;'>特攻</td>
-  <td class="xl68" style='border-left:none;'>特防</td>
-  <td class="xl68" style='border-left:none;'>素早</td>
+  <td class="xl68" align="center" style='border-left:none;'>HP</td>
+  <td class="xl68" align="center" style='border-left:none;'>攻撃</td>
+  <td class="xl68" align="center" style='border-left:none;'>防御</td>
+  <td class="xl68" align="center" style='border-left:none;'>特攻</td>
+  <td class="xl68" align="center" style='border-left:none;'>特防</td>
+  <td class="xl68" align="center" style='border-left:none;'>素早</td>
  </tr>
  <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl71" style='height:15.0pt;border-top:none'>種族</td>
+  <td class="xl71" align="center" style='height:15.0pt;border-top:none'>種族</td>
   <td class="xl74" style='border-top:none'></td>
   <td class="xl71" align="right" style='border-top:none;border-left:none' id='base_h'></td>
   <td class="xl71" align="right" style='border-top:none;border-left:none' id='base_a'></td>
@@ -219,7 +219,7 @@ input[type="text"]{
   <td class="xl71" align="right" style='border-top:none;border-left:none' id='base_s'></td>
  </tr>
  <tr height="20" style='height:15.0pt'>
-  <td class="xl69" style='border-top:none'>↑</td>
+  <td class="xl69" align="center" style='border-top:none'>↑</td>
   <td class="xl69" style='height:15.0pt;border-top:none'></td>
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_h'></td>
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_a'></td>
@@ -229,7 +229,7 @@ input[type="text"]{
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_s'></td>
  </tr>
  <tr height="20" style='height:15.0pt'>
-  <td class="x167" style='border-top:none'>n</td>
+  <td class="x169" style='border-top:none'></td>
   <td class="xl67" style='height:15.0pt;border-top:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_h'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_a'></td>
@@ -239,7 +239,7 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_s'></td>
  </tr>
  <tr height="20" style='height:15.0pt'>
-  <td class="xl70" style='border-top:none'>↓</td>
+  <td class="xl70" align="center" style='border-top:none'>↓</td>
   <td class="xl70" style='height:15.0pt;border-top:none'></td>
   <td class="xl70" align="right" style='border-top:none;border-left:none' id='lower_h'></td>
   <td class="xl70" align="right" style='border-top:none;border-left:none' id='lower_a'></td>
@@ -249,7 +249,7 @@ input[type="text"]{
   <td class="xl70" align="right" style='border-top:none;border-left:none' id='lower_s'></td>
  </tr>
  <tr>
-  <td rowspan="2" height="40" class="xl90" style='border-bottom:.5pt solid black;height:30.0pt;border-top:none'>基P</td>
+  <td rowspan="2" height="40" class="xl90" align="center" style='border-bottom:.5pt solid black;height:30.0pt;border-top:none'>基P</td>
   <td class="xl81" style='border-top:none;border-left:none'></td>
   <td class="xl71" style='border-top:none;border-left:none'>計</td>
   <td class="xl71" align="right" style='border-top:none;border-left:none' id='ev_all'></td>
