@@ -155,7 +155,7 @@ input[type="text"]{
 <table border="0" cellpadding="0" cellspacing="0" style='border-collapse:collapse;table-layout:fixed;width:100%;max-width:400pt;'>
  <tr>
   <td class="xl82" align="center">種族</td>
-  <td class="xl82" align="center" style='border-top:none;width:2pt'></td>
+  <td class="xl82" align="center" style='border-left:none;width:2pt'></td>
   <td colspan="2" class="xl82" align="center" style='border-left:none'><input type='text' style="width:100%" id="poke"></td>
   <td class="xl82" align="center" style='border-left:none'></td>
   <td class="xl82" align="center" style='border-left:none'>レベル</td>
@@ -229,7 +229,7 @@ input[type="text"]{
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_s'></td>
  </tr>
  <tr height="20" style='height:15.0pt'>
-  <td class="x167" style='border-top:none'></td>
+  <td class="x167" align="center" style='border-top:none'></td>
   <td class="xl67" style='height:15.0pt;border-top:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_h'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_a'></td>
