@@ -184,7 +184,7 @@ rt
 -->
 </style>
 
-<table border="0" cellpadding="0" cellspacing="0" style='border-collapse:collapse;table-layout:fixed;'>
+<table border="0" cellpadding="0" cellspacing="0" style='border-collapse:collapse;table-layout:fixed;width:75%'>
  <col style=''>
  <col style=''>
  <col style=''>
