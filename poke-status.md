@@ -150,14 +150,15 @@ title: ステータス計算機
 <table border="0" cellpadding="0" cellspacing="0" style='border-collapse:collapse;table-layout:fixed;width:100%;max-width:400pt;'>
  <tr>
   <td>種族</td>
-  <td colspan="2"><input type='text' style="width:80%" id="poke"></td>
   <td></td>
+  <td colspan="2"><input type='text' style="width:80%" id="poke"></td>
   <td>レベル</td>
   <td colspan="2"><input type='text' value="50" style="width:80%" id="lv"></td>
   <td></td>
  </tr>
  <tr>
   <td>性格</td>
+  <td></td>
   <td colspan="2">
    <select id="nature" style="width:90%">
     <option value="さみしがり">さみしがり</option>
@@ -187,7 +188,6 @@ title: ステータス計算機
     <option value="まじめ">まじめ</option>
    </select>
   </td>
-  <td></td>
   <td></td>
   <td></td>
   <td></td>
