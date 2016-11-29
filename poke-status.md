@@ -197,8 +197,8 @@ input[type="text"]{
   <td class="xl82" align="center" style='border-top:none;border-left:none'></td>
   <td colspan="2" class="xl82" align="center" style='border-top:none;border-left:none'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl71" style='height:15.0pt;'></td>
+ <tr style=''>
+  <td class="xl71" style=''></td>
   <td class="xl72" style=''></td>
   <td class="xl68" align="center" style='border-left:none;'>HP</td>
   <td class="xl68" align="center" style='border-left:none;'>攻撃</td>
@@ -207,8 +207,8 @@ input[type="text"]{
   <td class="xl68" align="center" style='border-left:none;'>特防</td>
   <td class="xl68" align="center" style='border-left:none;'>素早</td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td class="xl71" align="center" style='height:15.0pt;border-top:none'>種族</td>
+ <tr style=''>
+  <td class="xl71" align="center" style='border-top:none'>種族</td>
   <td class="xl74" style='border-top:none'></td>
   <td class="xl71" align="right" style='border-top:none;border-left:none' id='base_h'></td>
   <td class="xl71" align="right" style='border-top:none;border-left:none' id='base_a'></td>
@@ -217,9 +217,9 @@ input[type="text"]{
   <td class="xl71" align="right" style='border-top:none;border-left:none' id='base_d'></td>
   <td class="xl71" align="right" style='border-top:none;border-left:none' id='base_s'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
+ <tr style=''>
   <td class="xl69" align="center" style='border-top:none'>↑</td>
-  <td class="xl69" style='height:15.0pt;border-top:none'></td>
+  <td class="xl69" style='border-top:none'></td>
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_h'></td>
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_a'></td>
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_b'></td>
@@ -227,9 +227,9 @@ input[type="text"]{
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_d'></td>
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_s'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
+ <tr style=''>
   <td class="xl67" align="center" style='border-top:none'>　</td>
-  <td class="xl67" style='height:15.0pt;border-top:none'></td>
+  <td class="xl67" style='border-top:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_h'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_a'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_b'></td>
@@ -237,9 +237,9 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_d'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_s'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
+ <tr style=''>
   <td class="xl70" align="center" style='border-top:none'>↓</td>
-  <td class="xl70" style='height:15.0pt;border-top:none'></td>
+  <td class="xl70" style='border-top:none'></td>
   <td class="xl70" align="right" style='border-top:none;border-left:none' id='lower_h'></td>
   <td class="xl70" align="right" style='border-top:none;border-left:none' id='lower_a'></td>
   <td class="xl70" align="right" style='border-top:none;border-left:none' id='lower_b'></td>
@@ -248,7 +248,7 @@ input[type="text"]{
   <td class="xl70" align="right" style='border-top:none;border-left:none' id='lower_s'></td>
  </tr>
  <tr>
-  <td rowspan="2" height="40" class="xl90" align="center" style='border-bottom:.5pt solid black;height:30.0pt;border-top:none'>基P</td>
+  <td rowspan="2" class="xl90" align="center" style='border-bottom:.5pt solid black;border-top:none'>基P</td>
   <td class="xl81" style='border-top:none;border-left:none'></td>
   <td class="xl71" align="center" style='border-top:none;border-left:none'>計</td>
   <td class="xl71" align="right" style='border-top:none;border-left:none' id='ev_all'></td>
@@ -257,7 +257,7 @@ input[type="text"]{
   <td class="xl71" align="right" style='border-left:none' id='ev_rest'></td>
   <td class="xl71" style='border-top:none;border-left:none'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
+ <tr style=''>
   <td class="xl74" style='border-top:none'></td>
   <td class="xl82" align="right" style='border-top:none;border-left:none'><input type='text' value="0" style="width:100%" id='ev_h'></td>
   <td class="xl82" align="right" style='border-top:none;border-left:none'><input type='text' value="0" style="width:100%" id='ev_a'></td>
@@ -266,8 +266,8 @@ input[type="text"]{
   <td class="xl82" align="right" style='border-top:none;border-left:none'><input type='text' value="0" style="width:100%" id='ev_d'></td>
   <td class="xl82" align="right" style='border-top:none;border-left:none'><input type='text' value="0" style="width:100%" id='ev_s'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl71" style='height:15.0pt;border-top:none'></td>
+ <tr style=''>
+  <td class="xl71" style='border-top:none'></td>
   <td class="xl74" style='border-top:none'></td>
   <td class="xl73" style='border-top:none;border-left:none' id='nature_h'></td>
   <td class="xl73" style='border-top:none;border-left:none' id='nature_a'></td>
@@ -276,8 +276,8 @@ input[type="text"]{
   <td class="xl73" style='border-top:none;border-left:none' id='nature_d'></td>
   <td class="xl73" style='border-top:none;border-left:none' id='nature_s'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>31</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>31</td>
   <td class="xl76" style='border-top:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h31'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a31'></td>
@@ -286,8 +286,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d31'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s31'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>30</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>30</td>
   <td class="xl78" style='border-top:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h30'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a30'></td>
@@ -296,8 +296,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d30'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s30'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl79" align="right" style='height:15.0pt'>29</td>
+ <tr style=''>
+  <td class="xl79" align="right" style=''>29</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h29'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a29'></td>
@@ -306,8 +306,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d29'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s29'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>28</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>28</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h28'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a28'></td>
@@ -316,8 +316,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d28'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s28'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>27</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>27</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h27'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a27'></td>
@@ -326,8 +326,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d27'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s27'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>26</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>26</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h26'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a26'></td>
@@ -336,8 +336,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d26'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s26'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>25</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>25</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h25'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a25'></td>
@@ -346,8 +346,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d25'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s25'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>24</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>24</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h24'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a24'></td>
@@ -356,8 +356,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d24'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s24'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>23</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>23</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h23'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a23'></td>
@@ -366,8 +366,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d23'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s23'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>22</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>22</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h22'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a22'></td>
@@ -376,8 +376,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d22'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s22'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>21</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>21</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h21'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a21'></td>
@@ -386,8 +386,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d21'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s21'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>20</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>20</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h20'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a20'></td>
@@ -396,8 +396,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d20'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s20'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>19</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>19</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h19'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a19'></td>
@@ -406,8 +406,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d19'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s19'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>18</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>18</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h18'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a18'></td>
@@ -416,8 +416,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d18'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s18'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>17</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>17</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h17'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a17'></td>
@@ -426,8 +426,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d17'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s17'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>16</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>16</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h16'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a16'></td>
@@ -436,8 +436,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d16'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s16'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>15</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>15</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h15'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a15'></td>
@@ -446,8 +446,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d15'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s15'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>14</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>14</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h14'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a14'></td>
@@ -456,8 +456,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d14'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s14'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>13</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>13</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h13'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a13'></td>
@@ -466,8 +466,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d13'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s13'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>12</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>12</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h12'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a12'></td>
@@ -476,8 +476,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d12'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s12'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>11</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>11</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h11'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a11'></td>
@@ -486,8 +486,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d11'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s11'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>10</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>10</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h10'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a10'></td>
@@ -496,8 +496,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d10'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s10'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>9</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>9</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h9'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a9'></td>
@@ -506,8 +506,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d9'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s9'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>8</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>8</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h8'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a8'></td>
@@ -516,8 +516,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d8'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s8'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>7</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>7</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h7'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a7'></td>
@@ -526,8 +526,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d7'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s7'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>6</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>6</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h6'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a6'></td>
@@ -536,8 +536,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d6'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s6'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>5</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>5</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h5'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a5'></td>
@@ -546,8 +546,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d5'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s5'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>4</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>4</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h4'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a4'></td>
@@ -556,8 +556,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d4'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s4'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>3</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>3</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h3'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a3'></td>
@@ -566,8 +566,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d3'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s3'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>2</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>2</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h2'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a2'></td>
@@ -576,8 +576,8 @@ input[type="text"]{
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d2'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s2'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>1</td>
+ <tr style=''>
+  <td class="xl67" align="right" style='border-top:none'>1</td>
   <td class="xl67" style='border-top:none;border-left:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='h1'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='a1'></td>
@@ -586,8 +586,8 @@ input[type="text"]{
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='d1'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='s1'></td>
  </tr>
- <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl66" align="right" style='height:15.0pt;border-top:none'>0</td>
+ <tr style=''>
+  <td class="xl66" align="right" style='border-top:none'>0</td>
   <td class="xl66" style='border-top:none;border-left:none'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='h0'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='a0'></td>
