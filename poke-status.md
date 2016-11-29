@@ -661,7 +661,7 @@ rt
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='d2'></td>
   <td class="xl66" align="right" style='border-top:none;border-left:none' id='s2'></td>
  </tr>
- <tr height=2"0" style='height:15.0pt'>
+ <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl67" align="right" style='height:15.0pt;border-top:none'>1</td>
   <td colspan="3" class="xl87" style='border-right:.5pt solid black;border-left:
   none'>　</td>
