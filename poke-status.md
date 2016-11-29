@@ -196,7 +196,7 @@ rt
    <td></td>
    <td></td>
    <td></td>
-   <td class=xl66 align=right id='d0'></td>
+   <td class=xl66 align=right style='border-top:none;border-left:none'></td>
    <td></td>
   </tr>
  </tbody>
