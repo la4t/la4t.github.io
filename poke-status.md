@@ -196,7 +196,7 @@ input[type="text"]{
   <td class="xl82" align="center" style='border-top:none;border-left:none;border-right:none'></td>
   <td class="xl82" align="center" style='border-top:none;border-left:none;border-right:none'></td>
   <td class="xl82" align="center" style='border-top:none;border-left:none;border-right:none'></td>
-  <td class="xl82" align="center" style='border-top:none;border-left:none;border-right:none'></td>
+  <td class="xl82" align="center" style='border-top:none;border-left:none'></td>
  </tr>
  <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl71" style='height:15.0pt;'></td>
@@ -229,7 +229,7 @@ input[type="text"]{
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_s'></td>
  </tr>
  <tr height="20" style='height:15.0pt'>
-  <td class="xl67" align="center" style='border-top:none'></td>
+  <td class="xl67" align="center" style='border-top:none'> </td>
   <td class="xl67" style='height:15.0pt;border-top:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_h'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_a'></td>
