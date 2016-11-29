@@ -10,19 +10,6 @@ title: ステータス計算機
 <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <style>
 <!--
-@page
-  {margin:.75in .7in .75in .7in;}
-.style0
-  {text-align:general;
-  vertical-align:bottom;
-  white-space:nowrap;
-  color:black;
-  font-size:12.0pt;
-  font-weight:400;
-  font-style:normal;
-  text-decoration:none;
-  font-family:"ＭＳ Ｐゴシック";
-  border:none;}
 td
   {padding-top:1px;
   padding-right:1px;
@@ -171,16 +158,6 @@ td
 .xl92
   {vertical-align:middle;
   border:.5pt solid black;}
-ruby
-  {ruby-align:left;}
-rt
-  {color:windowtext;
-  font-size:6.0pt;
-  font-weight:400;
-  font-style:normal;
-  text-decoration:none;
-  font-family:"ＭＳ Ｐゴシック";
-  display:none;}
 -->
 </style>
 
