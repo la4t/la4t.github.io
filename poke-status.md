@@ -5,44 +5,6 @@ title: ステータス計算機
 
 ## ステータス計算機
 
-<form name="code">
-<table border="0">
-  <tbody>
-    <tr>
-      <td>Account</td>
-      <td><input type="text" name="usr_id" value=""></td>
-    </tr>
-    <tr>
-      <td>Password</td>
-      <td><input type="text" name="usr_pass" value=""></td>
-    </tr>
-    <tr>
-      <td>Matrix</td>
-      <td><textarea name="matrix" rows="8" cols="20" style="resize:none;"></textarea></td>
-    </tr>
-    <tr>
-      <td>code</td>
-      <td><input type="text" name="code1" value=""></td>
-    </tr>
-    <tr>
-      <td colspan="2">
-      <input type="radio" name="usr_int" value="pc" id="b1" checked><label for="b1">PC</label>
-      <input type="radio" name="usr_int" value="sp" id="b2"><label for="b2">スマートフォン</label>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2"><input type="button" value="作成" onclick="create()"></td>
-    </tr>
-    <tr>
-      <td colspan="2"><div id="bml">Output</div></td>
-    </tr>
-    <tr>
-      <td colspan="2"><textarea name="output1" rows="4" cols="20" style="resize:none;"></textarea></td>
-    </tr>
-  </tbody>
-</table>
-</form>
-
 <style>
 <!--
 @page
@@ -220,13 +182,13 @@ rt
 </style>
 
 <table border=0 cellpadding=0 cellspacing=0 width=449 style='border-collapse: collapse;table-layout:fixed;width:337pt'>
+ <col width=44 style='width:33pt'>
+ <col width=57 style='width:43pt'>
+ <col width=28 style='width:21pt'>
+ <col width=36 style='width:27pt'>
+ <col width=20 style='width:15pt'>
+ <col width=44 span=6 style=' width:33pt'>
  <tbody>
-  <col width=44 style='width:33pt'>
-  <col width=57 style='width:43pt'>
-  <col width=28 style='width:21pt'>
-  <col width=36 style='width:27pt'>
-  <col width=20 style='width:15pt'>
-  <col width=44 span=6 style=' width:33pt'>
   <tr height=20 style='height:15.0pt'>
    <td height=20 class=xl71 width=44 style='height:15.0pt;width:33pt'>　</td>
    <td colspan=3 class=xl83 width=121 style='border-left:none;width:91pt'>　</td>
