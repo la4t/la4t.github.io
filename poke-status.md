@@ -221,7 +221,7 @@ rt
  <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl71" style='height:15.0pt;border-top:none'>性格</td>
   <td colspan="2" class="xl92" style='border-left:none'>
-    <select id="nature" style="width:90%">
+    <select align="right" id="nature" style="width:90%">
       <option value="さみしがり">さみしがり</option>
       <option value="ゆうかん">ゆうかん</option>
       <option value="いじっぱり">いじっぱり</option>
