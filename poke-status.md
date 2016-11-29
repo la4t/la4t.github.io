@@ -195,7 +195,7 @@ title: ステータス計算機
  </tr>
  <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl71" style='height:15.0pt;'></td>
-  <td class="xl72" style=''></td>
+  <td class="xl72" style='width:2pt'></td>
   <td class="xl68" style='border-left:none;'>HP</td>
   <td class="xl68" style='border-left:none;'>攻撃</td>
   <td class="xl68" style='border-left:none;'>防御</td>
@@ -214,8 +214,8 @@ title: ステータス計算機
   <td class="xl71" align="right" style='border-top:none;border-left:none' id='base_s'></td>
  </tr>
  <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl83" style='height:15.0pt;border-top:none'>Lv</td>
   <td class="xl75" style='border-top:none'>↑</td>
+  <td height="20" class="xl83" style='height:15.0pt;border-top:none'></td>
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_h'></td>
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_a'></td>
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_b'></td>
@@ -224,8 +224,8 @@ title: ステータス計算機
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_s'></td>
  </tr>
  <tr height="20" style='height:15.0pt'>
-  <td height="20" class="xl71" style='height:15.0pt;border-top:none'>性格</td>
   <td class="xl76" style='border-top:none'></td>
+  <td height="20" class="xl71" style='height:15.0pt;border-top:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_h'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_a'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_b'></td>
@@ -234,8 +234,8 @@ title: ステータス計算機
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_s'></td>
  </tr>
  <tr height="20" style='height:15.0pt'>
-  <td></td>
   <td class="xl77" style='border-top:none'>↓</td>
+  <td></td>
   <td class="xl70" align="right" style='border-top:none;border-left:none' id='lower_h'></td>
   <td class="xl70" align="right" style='border-top:none;border-left:none' id='lower_a'></td>
   <td class="xl70" align="right" style='border-top:none;border-left:none' id='lower_b'></td>
