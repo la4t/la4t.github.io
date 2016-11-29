@@ -157,9 +157,9 @@ input[type="text"]{
   <td>種族</td>
   <td style="width:2pt"></td>
   <td colspan="2"><input type='text' style="width:100%" id="poke"></td>
+  <td></td>
   <td>レベル</td>
   <td colspan="2"><input type='text' value="50" style="width:100%" id="lv"></td>
-  <td></td>
  </tr>
  <tr>
   <td>性格</td>
@@ -229,7 +229,7 @@ input[type="text"]{
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_s'></td>
  </tr>
  <tr height="20" style='height:15.0pt'>
-  <td class="x167" style='border-top:none'> </td>
+  <td class="x167" style='border-top:none'>n</td>
   <td class="xl67" style='height:15.0pt;border-top:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_h'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_a'></td>
