@@ -250,12 +250,13 @@ input[type="text"]{
  </tr>
  <tr>
   <td rowspan="2" height="40" class="xl90" style='border-bottom:.5pt solid black;height:30.0pt;border-top:none'>基P</td>
-  <td></td>
+  <td class="xl81" style='border-top:none;border-left:none'></td>
   <td class="xl81" style='border-top:none;border-left:none'>計</td>
   <td class="xl81" align="right" style='border-top:none;border-left:none' id='ev_all'></td>
-  <td></td>
+  <td class="xl81" style='border-top:none;border-left:none'></td>
   <td class="xl71">残</td>
   <td class="xl71" align="right" style='border-left:none' id='ev_rest'></td>
+  <td class="xl81" style='border-top:none;border-left:none'></td>
  </tr>
  <tr height="20" style='height:15.0pt'>
   <td class="xl74" style='border-top:none'></td>
