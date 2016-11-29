@@ -157,7 +157,7 @@ input[type="text"]{
   <td class="xl82" align="center">種族</td>
   <td class="xl82" align="center" style='border-left:none;width:2pt'></td>
   <td colspan="2" class="xl82" align="center" style='border-left:none'><input type='text' style="width:100%" id="poke"></td>
-  <td class="xl82" align="center" style='border-left:none'></td>
+  <td class="xl82" align="center" style='border-left:none;border-bottom:none'></td>
   <td class="xl82" align="center" style='border-left:none'>レベル</td>
   <td colspan="2" class="xl82" align="center" style='border-left:none'><input type='text' value="50" style="width:100%" id="lv"></td>
  </tr>
@@ -193,10 +193,10 @@ input[type="text"]{
     <option value="まじめ">まじめ</option>
    </select>
   </td>
-  <td class="xl82" align="center" style='border-top:none;border-left:none'></td>
-  <td class="xl82" align="center" style='border-top:none;border-left:none'></td>
-  <td class="xl82" align="center" style='border-top:none;border-left:none'></td>
-  <td class="xl82" align="center" style='border-top:none;border-left:none'></td>
+  <td class="xl82" align="center" style='border-top:none;border-left:none;border-right:none'></td>
+  <td class="xl82" align="center" style='border-top:none;border-left:none;border-right:none'></td>
+  <td class="xl82" align="center" style='border-top:none;border-left:none;border-right:none'></td>
+  <td class="xl82" align="center" style='border-top:none;border-left:none;border-right:none'></td>
  </tr>
  <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl71" style='height:15.0pt;'></td>
