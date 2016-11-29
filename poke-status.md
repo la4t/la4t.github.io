@@ -154,17 +154,17 @@ input[type="text"]{
 
 <table border="0" cellpadding="0" cellspacing="0" style='border-collapse:collapse;table-layout:fixed;width:100%;max-width:400pt;'>
  <tr>
-  <td>種族</td>
-  <td style="width:2pt"></td>
-  <td colspan="2"><input type='text' style="width:100%" id="poke"></td>
-  <td></td>
-  <td>レベル</td>
-  <td colspan="2"><input type='text' value="50" style="width:100%" id="lv"></td>
+  <td class="xl82" align="center" style='border-top:none;border-left:none'>種族</td>
+  <td class="xl82" align="center" style='border-top:none;border-left:none' style="width:2pt"></td>
+  <td colspan="2" class="xl82" align="center" style='border-top:none;border-left:none'><input type='text' style="width:100%" id="poke"></td>
+  <td class="xl82" align="center" style='border-top:none;border-left:none'></td>
+  <td class="xl82" align="center" style='border-top:none;border-left:none'>レベル</td>
+  <td colspan="2" class="xl82" align="center" style='border-top:none;border-left:none'><input type='text' value="50" style="width:100%" id="lv"></td>
  </tr>
  <tr>
-  <td>性格</td>
-  <td></td>
-  <td colspan="2">
+  <td class="xl82" align="center" style='border-top:none;border-left:none'>性格</td>
+  <td class="xl82" align="center" style='border-top:none;border-left:none'></td>
+  <td colspan="2" class="xl82" align="center" style='border-top:none;border-left:none'>
    <select id="nature" style="width:100%">
     <option value="さみしがり">さみしがり</option>
     <option value="ゆうかん">ゆうかん</option>
@@ -193,10 +193,10 @@ input[type="text"]{
     <option value="まじめ">まじめ</option>
    </select>
   </td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td class="xl82" align="center" style='border-top:none;border-left:none'></td>
+  <td class="xl82" align="center" style='border-top:none;border-left:none'></td>
+  <td class="xl82" align="center" style='border-top:none;border-left:none'></td>
+  <td class="xl82" align="center" style='border-top:none;border-left:none'></td>
  </tr>
  <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl71" style='height:15.0pt;'></td>
