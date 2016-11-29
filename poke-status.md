@@ -147,39 +147,52 @@ title: ステータス計算機
 -->
 </style>
 
-<input type='text' style="width:80%" id="poke">
-
-<input type='text' value="50" style="width:80%" id="lv">
-
-<select id="nature" style="width:90%">
-  <option value="さみしがり">さみしがり</option>
-  <option value="ゆうかん">ゆうかん</option>
-  <option value="いじっぱり">いじっぱり</option>
-  <option value="やんちゃ">やんちゃ</option>
-  <option value="ずぶとい">ずぶとい</option>
-  <option value="のんき">のんき</option>
-  <option value="わんぱく">わんぱく</option>
-  <option value="のうてんき">のうてんき</option>
-  <option value="おくびょう">おくびょう</option>
-  <option value="せっかち">せっかち</option>
-  <option value="ようき">ようき</option>
-  <option value="むじゃき">むじゃき</option>
-  <option value="ひかえめ">ひかえめ</option>
-  <option value="おっとり">おっとり</option>
-  <option value="れいせい">れいせい</option>
-  <option value="うっかりや">うっかりや</option>
-  <option value="おだやか">おだやか</option>
-  <option value="おとなしい">おとなしい</option>
-  <option value="なまいき">なまいき</option>
-  <option value="しんちょう">しんちょう</option>
-  <option value="がんばりや">がんばりや</option>
-  <option value="きまぐれ">きまぐれ</option>
-  <option value="すなお">すなお</option>
-  <option value="てれや">てれや</option>
-  <option value="まじめ">まじめ</option>
-</select>
-
 <table border="0" cellpadding="0" cellspacing="0" style='border-collapse:collapse;table-layout:fixed;width:100%;max-width:400pt;'>
+ <tr>
+  <td>種族</td>
+  <td colspan="2"><input type='text' style="width:80%" id="poke"></td>
+  <td></td>
+  <td>レベル</td>
+  <td colspan="2"><input type='text' value="50" style="width:80%" id="lv"></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>性格</td>
+  <td colspan="2">
+   <select id="nature" style="width:90%">
+    <option value="さみしがり">さみしがり</option>
+    <option value="ゆうかん">ゆうかん</option>
+    <option value="いじっぱり">いじっぱり</option>
+    <option value="やんちゃ">やんちゃ</option>
+    <option value="ずぶとい">ずぶとい</option>
+    <option value="のんき">のんき</option>
+    <option value="わんぱく">わんぱく</option>
+    <option value="のうてんき">のうてんき</option>
+    <option value="おくびょう">おくびょう</option>
+    <option value="せっかち">せっかち</option>
+    <option value="ようき">ようき</option>
+    <option value="むじゃき">むじゃき</option>
+    <option value="ひかえめ">ひかえめ</option>
+    <option value="おっとり">おっとり</option>
+    <option value="れいせい">れいせい</option>
+    <option value="うっかりや">うっかりや</option>
+    <option value="おだやか">おだやか</option>
+    <option value="おとなしい">おとなしい</option>
+    <option value="なまいき">なまいき</option>
+    <option value="しんちょう">しんちょう</option>
+    <option value="がんばりや">がんばりや</option>
+    <option value="きまぐれ">きまぐれ</option>
+    <option value="すなお">すなお</option>
+    <option value="てれや">てれや</option>
+    <option value="まじめ">まじめ</option>
+   </select>
+  </td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
  <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl71" style='height:15.0pt;'></td>
   <td class="xl72" style=''></td>
