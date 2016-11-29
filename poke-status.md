@@ -188,7 +188,7 @@ rt
  <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl71" style='height:15.0pt;'></td>
   <td colspan="2" class="xl83" style='border-left:none;'></td>
-  <td class="xl72" style=''></td>
+  <td class="xl72" style='width:5pt'></td>
   <td class="xl68" style='border-left:none;'>HP</td>
   <td class="xl68" style='border-left:none;'>攻撃</td>
   <td class="xl68" style='border-left:none;'>防御</td>
