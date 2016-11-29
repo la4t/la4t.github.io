@@ -10,6 +10,12 @@ title: ステータス計算機
 <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <style>
 <!--
+input[type="text"]{
+  width: 100%;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
 .xl65
   {color:black;
   font-size:11.0pt;}
