@@ -181,7 +181,7 @@ rt
 -->
 </style>
 
-<table border=0 cellpadding=0 cellspacing=0 width=449 style='border-collapse: collapse;table-layout:fixed;width:337pt'>
+<table>
  <tbody>
   <tr height=20 style='height:15.0pt'>
    <td class=xl67 align=right style='border-top:none;border-left:none' id='h1'></td>
