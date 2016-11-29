@@ -10,20 +10,6 @@ title: ステータス計算機
 <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <style>
 <!--
-td
-  {padding-top:1px;
-  padding-right:1px;
-  padding-left:1px;
-  color:black;
-  font-size:12.0pt;
-  font-weight:400;
-  font-style:normal;
-  text-decoration:none;
-  font-family:"ＭＳ Ｐゴシック";
-  text-align:general;
-  vertical-align:bottom;
-  border:none;
-  white-space:nowrap;}
 .xl65
   {color:black;
   font-size:11.0pt;}
