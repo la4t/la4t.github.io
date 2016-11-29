@@ -183,6 +183,12 @@ rt
 
 <table border=0 cellpadding=0 cellspacing=0 width=449 style='border-collapse: collapse;table-layout:fixed;width:337pt'>
  <tbody>
+  <col width=44 style='width:33pt'>
+  <col width=57 style='width:43pt'>
+  <col width=28 style='width:21pt'>
+  <col width=36 style='width:27pt'>
+  <col width=20 style='width:15pt'>
+  <col width=44 span=6 style=' width:33pt'>
   <tr height=20 style='height:15.0pt'>
    <td height=20 class=xl71 width=44 style='height:15.0pt;width:33pt'>　</td>
    <td colspan=3 class=xl83 width=121 style='border-left:none;width:91pt'>　</td>
@@ -645,3 +651,5 @@ rt
   </tr>
  </tbody>
 </table>
+
+## じっけん
