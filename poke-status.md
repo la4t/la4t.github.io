@@ -185,7 +185,7 @@ rt
  <tbody>
   <tr height=20 style='height:15.0pt'>
    <td height=20 class=xl67 align=right style='height:15.0pt;border-top:none'>1</td>
-   <td colspan=3 class=xl87 style='border-right:.5pt solid black;border-left: none'>　</td>
+   <td class=xl87 style='border-right:.5pt solid black;border-left: none'>　</td>
    <td class=xl67 style='border-top:none;border-left:none'>　</td>
    <td class=xl67 align=right style='border-top:none;border-left:none' id='h1'></td>
    <td class=xl67 align=right style='border-top:none;border-left:none' id='a1'></td>
@@ -196,7 +196,7 @@ rt
   </tr>
   <tr height=20 style='height:15.0pt'>
    <td height=20 class=xl66 align=right style='height:15.0pt;border-top:none'>0</td>
-   <td colspan=3 class=xl85 style='border-right:.5pt solid black;border-left: none'>　</td>
+   <td class=xl85 style='border-right:.5pt solid black;border-left: none'>　</td>
    <td class=xl66 style='border-top:none;border-left:none'>　</td>
    <td class=xl66 align=right style='border-top:none;border-left:none' id='h0'></td>
    <td class=xl66 align=right style='border-top:none;border-left:none' id='a0'></td>
