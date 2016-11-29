@@ -150,7 +150,7 @@ title: ステータス計算機
 <table border="0" cellpadding="0" cellspacing="0" style='border-collapse:collapse;table-layout:fixed;width:100%;max-width:400pt;'>
  <tr>
   <td>種族</td>
-  <td></td>
+  <td style="width:2pt"></td>
   <td colspan="2"><input type='text' style="width:80%" id="poke"></td>
   <td>レベル</td>
   <td colspan="2"><input type='text' value="50" style="width:80%" id="lv"></td>
@@ -195,7 +195,7 @@ title: ステータス計算機
  </tr>
  <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl71" style='height:15.0pt;'></td>
-  <td class="xl72" style='width:2pt'></td>
+  <td class="xl72" style=''></td>
   <td class="xl68" style='border-left:none;'>HP</td>
   <td class="xl68" style='border-left:none;'>攻撃</td>
   <td class="xl68" style='border-left:none;'>防御</td>
