@@ -185,12 +185,6 @@ rt
 </style>
 
 <table border="0" cellpadding="0" cellspacing="0" style='border-collapse:collapse;table-layout:fixed;width:100%'>
- <col style=''>
- <col style=''>
- <col style=''>
- <col style=''>
- <col style=''>
- <col span="6" style=''>
  <tr height="20" style='height:15.0pt'>
   <td height="20" class="xl71" style='height:15.0pt;'>　</td>
   <td colspan="2" class="xl83" style='border-left:none;'>　</td>
