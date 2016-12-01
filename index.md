@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HOME
+title: 物置
 ---
 
 ## ツール類
