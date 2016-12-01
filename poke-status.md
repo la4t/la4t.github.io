@@ -8,7 +8,7 @@ title: ステータス計算機
 <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-<link rel="stylesheet" href="{{ site.baseurl }}/poke-status.css" />
+<link rel="stylesheet" href="{{ site.baseurl }}/css/poke-status.css" />
 
 <table border="0" cellpadding="0" cellspacing="0" style='border-collapse:collapse;table-layout:fixed;width:100%;max-width:400pt;'>
  <tr>
