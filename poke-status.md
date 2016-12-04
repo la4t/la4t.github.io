@@ -56,7 +56,7 @@ title: ステータス計算機
   <td colspan="2" class="xl82" align="center" style='border-top:none;border-left:none'></td>
  </tr>
  <tr>
-  <td class="x168"></td>
+  <td class="xl68" align="center" style='border-left:none;'></td>
   <td class="xl72"></td>
   <td class="xl68" align="center" style='border-left:none;'>HP</td>
   <td class="xl68" align="center" style='border-left:none;'>攻撃</td>
