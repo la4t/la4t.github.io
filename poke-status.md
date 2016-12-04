@@ -16,7 +16,7 @@ title: ステータス計算機
   <td class="xl82" align="center" style='border-left:none;width:2pt'></td>
   <td colspan="2" class="xl82" align="center" style='border-left:none'><input type='text' style="width:100%" id="poke"></td>
   <td class="xl82" align="center" style='border-left:none'></td>
-  <td class="xl82" align="center" style='border-left:none'>レベル</td>
+  <td class="xl82" align="center" style='border-left:none'>Lv</td>
   <td colspan="2" class="xl82" align="center" style='border-left:none'><input type='text' value="50" style="width:100%" id="lv"></td>
  </tr>
  <tr>
@@ -56,7 +56,7 @@ title: ステータス計算機
   <td colspan="2" class="xl82" align="center" style='border-top:none;border-left:none'></td>
  </tr>
  <tr>
-  <td class="xl71"></td>
+  <td class="x168"></td>
   <td class="xl72"></td>
   <td class="xl68" align="center" style='border-left:none;'>HP</td>
   <td class="xl68" align="center" style='border-left:none;'>攻撃</td>
@@ -86,7 +86,7 @@ title: ステータス計算機
   <td class="xl69" align="right" style='border-top:none;border-left:none' id='upper_s'></td>
  </tr>
  <tr>
-  <td class="xl67" align="center" style='border-top:none'>　</td>
+  <td class="xl67" align="center" style='border-top:none'>野生</td>
   <td class="xl67" style='border-top:none'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_h'></td>
   <td class="xl67" align="right" style='border-top:none;border-left:none' id='normal_a'></td>
