@@ -106,8 +106,8 @@ $(function(){
         $("#poke").autocomplete({
             source: function(request, response){
                 var list = [];
+                var input = katahira(roman.parse(request.term));
                 p_keys.forEach(x => {
-                    var input = katahira(roman.parse(request.term));
                     if(p[x].name.reduce((p, c) => p || c.includes(input), false)){
                         list.push(x)
                     }
