@@ -9,7 +9,7 @@ title: ステータス計算機
 <script src="{{ site.baseurl }}/js/jquery-ui.min.js"></script>
 <link rel="stylesheet" href="{{ site.baseurl }}/css/jquery-ui.min.css" />
 <link rel="stylesheet" href="{{ site.baseurl }}/css/poke-status.css" />
-<script src="{{ site.baseurl }}/js/poke-status.js"></script>
+<script data-main="{{ site.baseurl }}/js/poke-status.js" src="{{ site.baseurl }}/js/require.js"></script>
 
 <table border="0" cellpadding="0" cellspacing="0" style='border-collapse:collapse;table-layout:fixed;width:100%;max-width:400pt;'>
  <tr>
