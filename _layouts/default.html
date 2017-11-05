@@ -17,50 +17,38 @@
 
 <div id="container">
 
-<div id="main">
+<header>
+<h1 id="logo"><a href="{{ site.baseurl }}/index.html"><img src="{{ site.baseurl }}/images/logo.png" alt="物置"></a></h1>
+</header>
+
+<nav id="menubar">
+<ul>
+<li><a href="{{ site.baseurl }}/index.html">Home</a></li>
+<li><a href="{{ site.baseurl }}/about.html">About</a></li>
+</ul>
+</nav>
+
+<div id="contents">
 
 {{ content }}
 
 </div>
-<!--/main-->
+<!--/contents-->
 
-<div id="sub">
-
-<p id="logo"><a href="{{ site.baseurl }}/index.html"><img src="{{ site.baseurl }}/images/logo.png" alt="物置"></a></p>
-
-<!--PC用メニュー-->
-<nav id="menubar">
-<ul>
-<li><a href="{{ site.baseurl }}/index.html">HOME</a></li>
-<li><a href="{{ site.baseurl }}/about.html">ABOUT</a></li>
-</ul>
-</nav>
-<!--スマホ用メニュー-->
-<nav id="menubar-s">
-<ul>
-<li><a href="{{ site.baseurl }}/index.html">HOME</a></li>
-<li><a href="{{ site.baseurl }}/about.html">ABOUT</a></li>
-</ul>
-</nav>
-
-</div>
-<!--/sub-->
+<footer>
+<small>Copyright&copy; <a href="{{ site.baseurl }}/index.html">la4t</a> All Rights Reserved.</small>
+<span class="pr">《<a href="https://template-party.com/" target="_blank">Web Design:Template-Party</a>》</span>
+</footer>
 
 </div>
 <!--/container-->
 
-<footer>
-<small>Copyright&copy; <a href="{{ site.baseurl }}/index.html">la4t</a> All Rights Reserved.</small>
-<span class="pr"><a href="http://template-party.com/" target="_blank">Web Design:Template-Party</a></span>
-</footer>
-
-<!--メニューの３本バー-->
-<div id="menubar_hdr" class="close"><span></span><span></span><span></span></div>
-<!--メニューの開閉処理条件設定　480px以下-->
+<!--スマホ用更新情報　480px以下-->
 <script type="text/javascript">
 if (OCwindowWidth() <= 480) {
-    open_close("menubar_hdr", "menubar-s");
+	open_close("newinfo_hdr", "newinfo");
 }
 </script>
+
 </body>
 </html>

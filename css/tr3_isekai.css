@@ -1,0 +1,131 @@
+@charset "utf-8";
+
+input[type="text"]{
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.xl65
+    {border:.5pt solid windowtext;
+    background:#F0F0F0;}
+.xl66
+    {text-align:center;
+    border-top:.5pt solid windowtext;
+    border-right:.5pt solid windowtext;
+    border-bottom:none;
+    border-left:none;
+    background:#F0F0F0;}
+.xl67
+    {text-align:center;
+    border-top:.5pt solid windowtext;
+    border-right:.5pt solid windowtext;
+    border-bottom:none;
+    border-left:.5pt solid windowtext;
+    background:#F0F0F0;}
+.xl68
+    {border-top:.5pt solid windowtext;
+    border-right:.5pt solid windowtext;
+    border-bottom:none;
+    border-left:.5pt solid windowtext;
+    background:#F0F0F0;}
+.xl69
+    {text-align:center;
+    border:.5pt solid windowtext;
+    background:#E0E8F6;}
+.xl70
+    {border:.5pt solid windowtext;
+    background:#E0E8F6;}
+.xl71
+    {text-align:center;
+    border-top:.5pt solid windowtext;
+    border-right:.5pt solid windowtext;
+    border-bottom:.5pt solid windowtext;
+    border-left:none;
+    background:#E0E8F6;}
+.xl72
+    {text-align:center;
+    border:.5pt solid windowtext;
+    background:#E0E8FF;}
+.xl73
+    {border:.5pt solid windowtext;
+    background:#E0E8FF;}
+.xl74
+    {text-align:center;
+    border:.5pt solid windowtext;
+    background:#E6E8F6;}
+.xl75
+    {border:.5pt solid windowtext;
+    background:#E6E8F6;}
+.xl76
+    {text-align:center;
+    border:.5pt solid windowtext;
+    background:#F5F5D2;}
+.xl77
+    {border:.5pt solid windowtext;
+    background:#F5F5D2;}
+.xl78
+    {border-top:.5pt solid windowtext;
+    border-right:none;
+    border-bottom:.5pt solid windowtext;
+    border-left:.5pt solid windowtext;
+    background:#F5F5D2;}
+.xl79
+    {border-top:.5pt solid windowtext;
+    border-right:none;
+    border-bottom:.5pt solid windowtext;
+    border-left:none;
+    background:#F5F5D2;}
+.xl80
+    {border-top:.5pt solid windowtext;
+    border-right:.5pt solid windowtext;
+    border-bottom:.5pt solid windowtext;
+    border-left:none;
+    background:#F5F5D2;}
+.xl81
+    {text-align:center;
+    border:.5pt solid windowtext;
+    background:#F5F5E1;}
+.xl82
+    {border:.5pt solid windowtext;
+    background:#F5F5E1;}
+.xl83
+    {text-align:center;
+    border-top:.5pt solid windowtext;
+    border-right:none;
+    border-bottom:.5pt solid windowtext;
+    border-left:.5pt solid windowtext;
+    background:#FCF5D2;}
+.xl84
+    {text-align:center;
+    border-top:.5pt solid windowtext;
+    border-right:.5pt solid windowtext;
+    border-bottom:.5pt solid windowtext;
+    border-left:none;
+    background:#FCF5D2;}
+.xl85
+    {border-top:.5pt solid windowtext;
+    border-right:none;
+    border-bottom:.5pt solid windowtext;
+    border-left:.5pt solid windowtext;
+    background:#FCF5D2;}
+.xl86
+    {border-top:.5pt solid windowtext;
+    border-right:.5pt solid windowtext;
+    border-bottom:.5pt solid windowtext;
+    border-left:none;
+    background:#FCF5D2;}
+.xl87
+    {text-align:center;
+    border-top:none;
+    border-right:.5pt solid windowtext;
+    border-bottom:.5pt solid windowtext;
+    border-left:.5pt solid windowtext;
+    background:#FFEBEC;}
+.xl88
+    {text-align:center;
+    border:.5pt solid windowtext;
+    background:#FFEBEC;}
+.xl89
+    {border:.5pt solid windowtext;
+    background:#FFEBEC;}
