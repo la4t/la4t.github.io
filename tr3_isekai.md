@@ -12,18 +12,32 @@ title: ポポロ異世界 ダメージ計算
 <script data-main="{{ site.baseurl }}/js/tr3_isekai.js" src="{{ site.baseurl }}/js/require.js"></script>
 
 <table border="0" cellpadding="0" cellspacing="0" style='border-collapse:collapse;table-layout:fixed;width:100%;min-width:400pt;max-width:600pt'>
+ <col style='width:14.63%'>
+ <col style='width:7.32%'>
+ <col style='width:7.32%'>
+ <col style='width:2.44%'>
+ <col style='width:7.32%'>
+ <col style='width:2.44%'>
+ <col style='width:12.2%'>
+ <col style='width:2.44%'>
+ <col style='width:7.32%'>
+ <col style='width:7.32%'>
+ <col style='width:7.32%'>
+ <col style='width:7.32%'>
+ <col style='width:2.44%'>
+ <col style='width:12.2%'>
  <tr style='height:23.0pt'>
-  <td class="xl65" style='height:23.0pt;width:14.2%'></td>
-  <td colspan="2" class="xl66" style='width:14.6%'>フロア</td>
-  <td colspan="2" class="xl68" align="center" style='border-left:none;width:10.0%'>
+  <td class="xl65" style='height:23.0pt;'></td>
+  <td colspan="2" class="xl66" style=''>フロア</td>
+  <td colspan="2" class="xl68" align="center" style='border-left:none;'>
     <button type="button" value="#floor minus 1" style="padding:0px;width:30%" id="btn1">▼</button><input type="text" value="1" maxlength='2' style="width:30%" id="floor" /><button type="button" value="#floor plus 99" style="padding:0px;width:30%" id="btn2">▲</button>
   </td>
-  <td colspan="2" class="xl69" style='border-left:none;width:14.6%'>ポポロ:Lv</td>
-  <td colspan="2" class="xl70" align="center" style='border-left:none;width:10.0%'>
+  <td colspan="2" class="xl69" style='border-left:none;'>ポポロ:Lv</td>
+  <td colspan="2" class="xl70" align="center" style='border-left:none;'>
     <button type="button" value="#lv_p minus 1" style="padding:0px;width:30%" id="btn3">▼</button><input type="text" value="1" maxlength='2' style="width:30%" id="lv_p" /><button type="button" value="#lv_p plus 99" style="padding:0px;width:30%" id="btn4">▲</button>
   </td>
-  <td colspan="2" class="xl76" style='border-left:none;width:14.6%'>仲間:種族</td>
-  <td colspan="3" class="xl77" style='border-left:none;width:22.0%%'><input type="text" value="スライムベス" style="width:100%" id="spec" /></td>
+  <td colspan="2" class="xl76" style='border-left:none;'>仲間:種族</td>
+  <td colspan="3" class="xl77" style='border-left:none;%'><input type="text" value="スライムベス" style="width:100%" id="spec" /></td>
  </tr>
  <tr style='height:23.0pt'>
   <td class="xl65" style='height:23.0pt;border-top:none'></td>
