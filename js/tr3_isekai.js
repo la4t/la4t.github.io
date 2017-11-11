@@ -36,7 +36,7 @@ define(function (require, exports, module) {
       Atk: base_n.Atk + lvup_n.Atk,
       Def: base_n.Def + lvup_n.Def
     }
-    $('#hp_n').html("HP:" + n.HP);
+    $('#hp_n').html(n.HP);
 
     var list = isekai_floor[$('#floor').val()];
     for(var i=0; i<10; i++){
