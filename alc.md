@@ -129,10 +129,10 @@ function create(){
         }
     }
     if(e == "pc"){
-        d = 'for(var i=0;i<3;i++){var p=document.getElementsByTagName("th")[6+i*2].innerHTML;document.getElementsByName("message"+(3+i))[0].value=a.charAt(10*(p.charCodeAt(3)-49)+p.charCodeAt(1)-65);}'
+        d = 'for(var i=0;i<3;i++){var p=document.getElementsByTagName("th")[4+i*2].innerHTML;document.getElementsByName("message"+(3+i))[0].value=a.charAt(10*(p.charCodeAt(3)-49)+p.charCodeAt(1)-65);}'
     }
     else{
-        d = 'for(var i=0;i<3;i++){var p=document.getElementsByTagName("td")[5+i].innerHTML;document.getElementsByName("message"+(3+i))[0].value=a.charAt(10*(p.charCodeAt(9)-49)+p.charCodeAt(7)-65);}'
+        d = 'for(var i=0;i<3;i++){var p=document.getElementsByTagName("td")[4+i].innerHTML;document.getElementsByName("message"+(3+i))[0].value=a.charAt(10*(p.charCodeAt(9)-49)+p.charCodeAt(7)-65);}'
     }
 
     if(id == ""){
