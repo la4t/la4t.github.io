@@ -144,7 +144,6 @@ function create(){
 
     document.getElementsByName("output1")[0].value = a;
 
-    document.getElementById("bml").innerHTML = '<a href="' + a + '">AutoLogin</a>';
+    document.getElementById("bml").innerHTML = "<a href='" + a + "'>AutoLogin</a>";
 }
 </script>
-
