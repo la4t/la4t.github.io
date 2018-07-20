@@ -3663,6 +3663,10 @@ define(function (require, exports, module) {var p = {
     "name": [ "ずがどーん" ],
     "base": { "h": 53, "a": 127, "b": 53, "c": 151, "d": 79, "s": 107 }
   },
+  "ゼラオラ": {
+    "name": [ "ぜらおら" ],
+    "base": { "h": 88, "a": 112, "b": 75, "c": 102, "d": 80, "s": 143 }
+  },
 };
 
 var n = {
